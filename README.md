@@ -28,7 +28,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [ork.ad](https://ork.ad/) every **Sunday**; GitHub `1m` sample updated in sync
 
-> **Sample on GitHub** · `GER30_1m.csv` (148,703 rows, `2025-12-29` → `2026-06-26`). **Full archive on [ork.ad](https://ork.ad/)** — **4,280,329** `1m` rows (~249.91 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2009-03-11` → `2026-06-26`.
+> **Sample on GitHub** · `GER30_1m.csv` (150,106 rows, `2026-01-05` → `2026-07-02`). **Full archive on [ork.ad](https://ork.ad/)** — **4,280,329** `1m` rows (~249.91 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2009-03-11` → `2026-06-26`.
 
 ## Download sample
 
@@ -44,9 +44,9 @@ Interactive chart & stats: **[https://ork-ad.github.io/ger30-1m-ohlcv-index-hist
 |---|--:|---|
 | Instrument | Germany 30 (DAX) · Stock index | Germany 30 (DAX) · Stock index |
 | Timeframes | `1m` only (sample) | **13** — `1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W` |
-| 1m rows | 148,703 | **4,280,329** |
-| Size | 8.59 MB | ~249.91 MB |
-| Period | `2025-12-29` → `2026-06-26` | `2009-03-11` → `2026-06-26` |
+| 1m rows | 150,106 | **4,280,329** |
+| Size | 9.25 MB | ~249.91 MB |
+| Period | `2026-01-05` → `2026-07-02` | `2009-03-11` → `2026-06-26` |
 | File | `GER30_1m.csv` | ZIP on [ork.ad](https://ork.ad/) |
 | Updates | Weekly (Sunday) — GitHub sample | Weekly (Sunday) — all timeframes |
 
@@ -73,21 +73,21 @@ First and latest rows from the GitHub sample **`GER30_1m.csv`**:
 
 | time | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2025-12-29T00:31:00Z | 24433.29 | 24440.27 | 24433.29 | 24440.27 | 12 |
-| 2025-12-29T00:32:00Z | 24440.27 | 24446.03 | 24440.27 | 24441.28 | 11 |
-| 2025-12-29T00:33:00Z | 24441.28 | 24444.02 | 24438.28 | 24438.28 | 3 |
-| 2025-12-29T00:34:00Z | 24438.28 | 24446.04 | 24438.28 | 24446.04 | 6 |
-| 2025-12-29T00:35:00Z | 24446.04 | 24447.03 | 24445.54 | 24446.03 | 13 |
+| 2026-01-05T00:31:00Z | 24600.586 | 24672.527 | 24600.586 | 24670.537 | 5 |
+| 2026-01-05T00:32:00Z | 24670.537 | 24670.537 | 24668.537 | 24668.537 | 16 |
+| 2026-01-05T00:33:00Z | 24668.537 | 24672.037 | 24668.527 | 24671.537 | 9 |
+| 2026-01-05T00:34:00Z | 24671.537 | 24675.277 | 24669.527 | 24675.277 | 14 |
+| 2026-01-05T00:35:00Z | 24675.277 | 24675.25 | 24675.277 | 24675.25 | 1 |
 
 **Last rows**
 
 | time | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
 | time | open | high | low | close | volume |
-| 2026-06-26T19:55:00Z | 24653.00 | 24653.51 | 24646.49 | 24649.00 | 358.00 |
-| 2026-06-26T19:56:00Z | 24649.00 | 24657.01 | 24645.99 | 24656.99 | 178.00 |
-| 2026-06-26T19:57:00Z | 24656.99 | 24667.50 | 24655.99 | 24658.51 | 186.00 |
-| 2026-06-26T19:58:00Z | 24658.51 | 24663.51 | 24645.49 | 24660.50 | 463.00 |
+| 2026-07-02T19:56:00Z | 25626.93 | 25640.91 | 25626.91 | 25633.92 | 260.00 |
+| 2026-07-02T19:57:00Z | 25633.92 | 25641.42 | 25633.91 | 25635.92 | 187.00 |
+| 2026-07-02T19:58:00Z | 25635.92 | 25649.43 | 25635.41 | 25645.93 | 237.00 |
+| 2026-07-02T19:59:00Z | 25645.93 | 25654.41 | 25637.16 | 25642.16 | 392.00 |
 
 ## Schema
 
@@ -150,4 +150,4 @@ The complete **GER30** archive on **[ork.ad](https://ork.ad/)** includes **13 OH
 **[→ Get the full GER30 dataset on ork.ad](https://ork.ad/)**
 
 ---
-*GetData · GER30 1m OHLCV sample on GitHub · Full historical data on [ork.ad](https://ork.ad/) · 2026-07-02 UTC*
+*GetData · GER30 1m OHLCV sample on GitHub · Full historical data on [ork.ad](https://ork.ad/) · 2026-07-03 UTC*
